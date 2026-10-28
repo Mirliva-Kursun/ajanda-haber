@@ -105,8 +105,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "t": "Voters in Texas agree: They hate data centers",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
     "s": "The Verge"
    },
    {
@@ -115,8 +115,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "VisionQuest is what happens when AI really goes rogue",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "t": "Meta quietly launched an ‘AI pet journal’ app",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
     "s": "The Verge"
    },
    {
@@ -125,15 +125,25 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "t": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-    "u": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+    "t": "Amazon’s new Echo line is here: the 6 biggest updates",
+    "u": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+    "s": "The Verge"
+   },
+   {
+    "t": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "u": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "s": "Wired"
+   },
+   {
+    "t": "Voters in Texas agree: They hate data centers",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
     "s": "The Verge"
    },
    {
@@ -142,30 +152,20 @@
     "s": "Wired"
    },
    {
-    "t": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "t": "Amazon’s first digital picture frame lets you add voice notes to photos",
+    "u": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
     "s": "The Verge"
    },
    {
     "t": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
     "u": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
     "s": "Wired"
-   },
-   {
-    "t": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
-    "u": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-    "s": "The Verge"
-   },
-   {
-    "t": "AI Agents Are Media’s New Favorite Audience",
-    "u": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "OpenAI, matematik ve fizikte sınırları zorluyor: Üç yeni çözüm iddiası",
-    "u": "https://webrazzi.com/2026/10/27/openai-matematik-ve-fizikte-sinirlari-zorluyor-uc-yeni-cozum-iddiasi/",
+    "t": "AIOps: Tech ekibinin 20 yıllık kıdemli mimarı",
+    "u": "https://webrazzi.com/2026/10/28/aiops-tech-ekibinin-20-yillik-kidemli-mimari/",
     "s": "Webrazzi"
    },
    {
@@ -174,8 +174,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Apple yeni iMac'i tanıttı: Fiyatı ve teknik özellikleri",
-    "u": "https://webrazzi.com/2026/10/27/apple-yeni-imac-i-tanitti-fiyati-ve-teknik-ozellikleri/",
+    "t": "Yapay zeka için bulut bilişim altyapısı geliştiren General Compute, 100 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/28/yapay-zeka-icin-bulut-bilisim-altyapisi-gelistiren-general-compute-100-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
@@ -184,8 +184,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Apple, M6 çipli MacBook Pro'yu tanıttı: Yapay zeka ve grafik performansı artıyor",
-    "u": "https://webrazzi.com/2026/10/27/apple-m6-cipli-macbook-pro-yu-tanitti-yapay-zeka-ve-grafik-performansi-artiyor/",
+    "t": "Martı, sürücüsüz araçları paylaşımlı yolculuğa taşıyacak RoboMartı’yı tanıttı",
+    "u": "https://webrazzi.com/2026/10/28/marti-surucusuz-araclari-paylasimli-yolculuga-tasiyacak-robomarti-yi-tanitti/",
     "s": "Webrazzi"
    },
    {
