@@ -100,40 +100,50 @@
  "2026-10-28": {
   "ai": [
    {
-    "t": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "u": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "t": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
     "s": "TechCrunch"
    },
    {
-    "t": "Voters in Texas agree: They hate data centers",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+    "t": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "u": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
     "s": "The Verge"
    },
    {
-    "t": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "u": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "t": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "u": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
     "s": "TechCrunch"
    },
    {
-    "t": "Meta quietly launched an ‘AI pet journal’ app",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+    "t": "Microsoft is ending Copilot support on smart TVs",
+    "u": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
     "s": "The Verge"
    },
    {
-    "t": "The data center boom has an upside: innovation for the US grid",
-    "u": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "t": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "u": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
     "s": "TechCrunch"
    },
    {
-    "t": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "t": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "u": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Amazon’s new Echo line is here: the 6 biggest updates",
-    "u": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+    "t": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "u": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "u": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "s": "Wired"
+   },
+   {
+    "t": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+    "u": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
     "s": "The Verge"
    },
    {
@@ -142,55 +152,45 @@
     "s": "Wired"
    },
    {
-    "t": "Voters in Texas agree: They hate data centers",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+    "t": "Hands-on with the new OLED iPad Mini",
+    "u": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
     "s": "The Verge"
    },
    {
     "t": "Anthropic Says It Will Revolutionize Biology—Some Day",
     "u": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
     "s": "Wired"
-   },
-   {
-    "t": "Amazon’s first digital picture frame lets you add voice notes to photos",
-    "u": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
-    "s": "The Verge"
-   },
-   {
-    "t": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-    "u": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-    "s": "Wired"
    }
   ],
   "girisim": [
+   {
+    "t": "Apple, dokunmatik OLED ekranlı MacBook Pro'yu tanıttı: Türkiye fiyatı 199.999 TL'den başlıyor",
+    "u": "https://webrazzi.com/2026/10/28/apple-dokunmatik-oled-ekranli-macbook-proyu-tanitti-turkiye-fiyati-199999-tlden-basliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "u": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
+    "u": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "u": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "s": "TechCrunch"
+   },
    {
     "t": "AIOps: Tech ekibinin 20 yıllık kıdemli mimarı",
     "u": "https://webrazzi.com/2026/10/28/aiops-tech-ekibinin-20-yillik-kidemli-mimari/",
     "s": "Webrazzi"
    },
    {
-    "t": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "u": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Yapay zeka için bulut bilişim altyapısı geliştiren General Compute, 100 milyon dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/10/28/yapay-zeka-icin-bulut-bilisim-altyapisi-gelistiren-general-compute-100-milyon-dolar-yatirim-aldi/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "u": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Martı, sürücüsüz araçları paylaşımlı yolculuğa taşıyacak RoboMartı’yı tanıttı",
-    "u": "https://webrazzi.com/2026/10/28/marti-surucusuz-araclari-paylasimli-yolculuga-tasiyacak-robomarti-yi-tanitti/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "Re:Build, which spun out Slate Auto, raises $2.1B",
-    "u": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+    "t": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "u": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
     "s": "TechCrunch"
    }
   ]
