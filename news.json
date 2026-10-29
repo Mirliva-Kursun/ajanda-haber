@@ -194,5 +194,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-10-29": {
+  "ai": [
+   {
+    "t": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "s": "The Verge"
+   },
+   {
+    "t": "Google expands AI Search ads globally as core ad growth slows",
+    "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "u": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "s": "The Verge"
+   },
+   {
+    "t": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "u": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "u": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "u": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "s": "Wired"
+   },
+   {
+    "t": "A hacker stole more than 40,000 DHS employee records",
+    "u": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+    "s": "The Verge"
+   },
+   {
+    "t": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "u": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "s": "Wired"
+   },
+   {
+    "t": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "u": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "s": "The Verge"
+   },
+   {
+    "t": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "u": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Apple, dokunmatik OLED ekranlı MacBook Pro'yu tanıttı: Türkiye fiyatı 199.999 TL'den başlıyor",
+    "u": "https://webrazzi.com/2026/10/28/apple-dokunmatik-oled-ekranli-macbook-proyu-tanitti-turkiye-fiyati-199999-tlden-basliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "u": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
+    "u": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "u": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "AIOps: Tech ekibinin 20 yıllık kıdemli mimarı",
+    "u": "https://webrazzi.com/2026/10/28/aiops-tech-ekibinin-20-yillik-kidemli-mimari/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "u": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
