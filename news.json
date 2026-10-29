@@ -198,65 +198,65 @@
  "2026-10-29": {
   "ai": [
    {
-    "t": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "t": "Granola crunches up a dictation feature to compete with Wispr",
+    "u": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
     "s": "TechCrunch"
    },
    {
-    "t": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "t": "Microsoft’s AI future has fewer jobs",
+    "u": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
     "s": "The Verge"
    },
    {
-    "t": "Google expands AI Search ads globally as core ad growth slows",
-    "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "t": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "u": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
     "s": "TechCrunch"
    },
    {
-    "t": "Akai is embracing vibe-coded mods with an open-source MPC",
-    "u": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "t": "The NYT Cooking app is testing AI recipe modifications",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
     "s": "The Verge"
    },
    {
-    "t": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "u": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "t": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "u": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
     "s": "TechCrunch"
    },
    {
-    "t": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "u": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "t": "Anthropic is asking Wall Street to believe in AGI",
+    "u": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-    "u": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+    "t": "Ikea’s colorful donut-shaped smart lamp is $20 off",
+    "u": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+    "s": "The Verge"
+   },
+   {
+    "t": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "u": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "s": "Wired"
+   },
+   {
+    "t": "Apple’s new laptop supports one of the coolest features for color pros",
+    "u": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+    "s": "The Verge"
+   },
+   {
+    "t": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "u": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "s": "Wired"
+   },
+   {
+    "t": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+    "u": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
     "s": "The Verge"
    },
    {
     "t": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
     "u": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-    "s": "Wired"
-   },
-   {
-    "t": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-    "s": "The Verge"
-   },
-   {
-    "t": "Should AI Decide Your Court Case? This Judge Says Yes",
-    "u": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-    "s": "Wired"
-   },
-   {
-    "t": "A hacker stole more than 40,000 DHS employee records",
-    "u": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
-    "s": "The Verge"
-   },
-   {
-    "t": "Anthropic Says It Will Revolutionize Biology—Some Day",
-    "u": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
     "s": "Wired"
    }
   ],
@@ -267,8 +267,8 @@
     "s": "Webrazzi"
    },
    {
-    "t": "Upwind raises $400M after walking away from Datadog acquisition offer",
-    "u": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
     "s": "TechCrunch"
    },
    {
@@ -277,8 +277,8 @@
     "s": "Webrazzi"
    },
    {
-    "t": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-    "u": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "t": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+    "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
     "s": "TechCrunch"
    },
    {
@@ -287,8 +287,8 @@
     "s": "Webrazzi"
    },
    {
-    "t": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-    "u": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "t": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+    "u": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
     "s": "TechCrunch"
    }
   ]
