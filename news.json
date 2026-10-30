@@ -296,7 +296,17 @@
  "2026-10-30": {
   "ai": [
    {
-    "t": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "t": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "u": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "u": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "s": "The Verge"
+   },
+   {
+    "t": "AWS will be a $1T business, Jassy says — but first, it will spend big",
     "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "s": "TechCrunch"
    },
@@ -314,22 +324,12 @@
     "t": "Microsoft’s AI future has fewer jobs",
     "u": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
     "s": "The Verge"
-   },
-   {
-    "t": "Rivian expands joint venture with VW to include AI assistant",
-    "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "The NYT Cooking app is testing AI recipe modifications",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "The director of Obsession put a new horror short on YouTube",
-    "u": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+    "t": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "u": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
     "s": "The Verge"
    },
    {
@@ -338,8 +338,8 @@
     "s": "Wired"
    },
    {
-    "t": "Intel says it’s selling every affordable laptop chip it can make",
-    "u": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+    "t": "The director of Obsession put a new horror short on YouTube",
+    "u": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
     "s": "The Verge"
    },
    {
@@ -348,8 +348,8 @@
     "s": "Wired"
    },
    {
-    "t": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-    "u": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+    "t": "Intel says it’s selling every affordable laptop chip it can make",
+    "u": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
     "s": "The Verge"
    },
    {
@@ -360,8 +360,8 @@
   ],
   "girisim": [
    {
-    "t": "Apple, dokunmatik OLED ekranlı MacBook Pro'yu tanıttı: Türkiye fiyatı 199.999 TL'den başlıyor",
-    "u": "https://webrazzi.com/2026/10/28/apple-dokunmatik-oled-ekranli-macbook-proyu-tanitti-turkiye-fiyati-199999-tlden-basliyor/",
+    "t": "Meta'dan yapay zeka destekli moda uygulaması: Style Sketch",
+    "u": "https://webrazzi.com/2026/10/30/metadan-yapay-zeka-destekli-moda-uygulamasi-style-sketch/",
     "s": "Webrazzi"
    },
    {
@@ -370,8 +370,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
-    "u": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
+    "t": "Kalshi, 40 milyar dolar değerleme üzerinden 1 milyar dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/kalshi-40-milyar-dolar-degerleme-uzerinden-1-milyar-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
@@ -380,8 +380,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "AIOps: Tech ekibinin 20 yıllık kıdemli mimarı",
-    "u": "https://webrazzi.com/2026/10/28/aiops-tech-ekibinin-20-yillik-kidemli-mimari/",
+    "t": "OpenAI destekli Thrive Holdings, ADT’yi 7,6 milyar dolara satın almak için anlaştı",
+    "u": "https://webrazzi.com/2026/10/30/openai-destekli-thrive-holdings-adtyi-76-milyar-dolara-satin-almak-icin-anlasti/",
     "s": "Webrazzi"
    },
    {
