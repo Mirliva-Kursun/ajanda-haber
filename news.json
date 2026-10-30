@@ -292,5 +292,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-10-30": {
+  "ai": [
+   {
+    "t": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "s": "The Verge"
+   },
+   {
+    "t": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Microsoft’s AI future has fewer jobs",
+    "u": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "s": "The Verge"
+   },
+   {
+    "t": "Rivian expands joint venture with VW to include AI assistant",
+    "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The NYT Cooking app is testing AI recipe modifications",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "The director of Obsession put a new horror short on YouTube",
+    "u": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+    "s": "The Verge"
+   },
+   {
+    "t": "Polymarket Halted International Trading After Hackers Drained Accounts",
+    "u": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+    "s": "Wired"
+   },
+   {
+    "t": "Intel says it’s selling every affordable laptop chip it can make",
+    "u": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+    "s": "The Verge"
+   },
+   {
+    "t": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "u": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "s": "Wired"
+   },
+   {
+    "t": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+    "u": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+    "s": "The Verge"
+   },
+   {
+    "t": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "u": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Apple, dokunmatik OLED ekranlı MacBook Pro'yu tanıttı: Türkiye fiyatı 199.999 TL'den başlıyor",
+    "u": "https://webrazzi.com/2026/10/28/apple-dokunmatik-oled-ekranli-macbook-proyu-tanitti-turkiye-fiyati-199999-tlden-basliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
+    "u": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+    "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "AIOps: Tech ekibinin 20 yıllık kıdemli mimarı",
+    "u": "https://webrazzi.com/2026/10/28/aiops-tech-ekibinin-20-yillik-kidemli-mimari/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+    "u": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
