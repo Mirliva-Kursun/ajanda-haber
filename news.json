@@ -390,5 +390,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-10-31": {
+  "ai": [
+   {
+    "t": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "u": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "s": "The Verge"
+   },
+   {
+    "t": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+    "u": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The biggest names in AI are backing a new way to opt out of scraping",
+    "u": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "s": "The Verge"
+   },
+   {
+    "t": "Last-minute Halloween costumes for tech nerds",
+    "u": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Google’s satellite AI server transmits its first response to Earth",
+    "u": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Exclusive details about Akai’s MPC Sample Key",
+    "u": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+    "s": "The Verge"
+   },
+   {
+    "t": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "u": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "s": "Wired"
+   },
+   {
+    "t": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+    "u": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+    "s": "Wired"
+   },
+   {
+    "t": "The biggest names in AI are backing a new way to opt out of scraping",
+    "u": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "s": "The Verge"
+   },
+   {
+    "t": "Polymarket Halted International Trading After Hackers Drained Accounts",
+    "u": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Wabi, 1,25 milyar dolar değerleme üzerinden 55 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/wabi-1-25-milyar-dolar-degerleme-uzerinden-55-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "u": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay Zeka Gündemi #67",
+    "u": "https://webrazzi.com/2026/10/30/yapay-zeka-gundemi-67/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Satlyt takes another step toward turning satellites into space data centers",
+    "u": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay zeka destekli sağlık teknolojisi girişimi Midstream Health, 20 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/midstream-health-20-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "u": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
