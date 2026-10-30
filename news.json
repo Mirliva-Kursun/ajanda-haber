@@ -296,40 +296,50 @@
  "2026-10-30": {
   "ai": [
    {
-    "t": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "u": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "t": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "u": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
     "s": "TechCrunch"
    },
    {
-    "t": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "u": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "t": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
     "s": "The Verge"
    },
    {
-    "t": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "t": "Google’s first data center satellite is online and writing poetry",
+    "u": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
     "s": "TechCrunch"
    },
    {
-    "t": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "t": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
     "s": "The Verge"
    },
    {
-    "t": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "t": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "u": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
     "s": "TechCrunch"
    },
    {
-    "t": "Microsoft’s AI future has fewer jobs",
-    "u": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "t": "Silicon Valley wants you to invest in miracles",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "u": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "t": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+    "u": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+    "s": "Wired"
+   },
+   {
+    "t": "The delightfully messy state of Apple gadgets",
+    "u": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
     "s": "The Verge"
    },
    {
@@ -338,55 +348,45 @@
     "s": "Wired"
    },
    {
-    "t": "The director of Obsession put a new horror short on YouTube",
-    "u": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+    "t": "Rivian’s autonomy gamble faces its first real test",
+    "u": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
     "s": "The Verge"
    },
    {
     "t": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
     "u": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
     "s": "Wired"
-   },
-   {
-    "t": "Intel says it’s selling every affordable laptop chip it can make",
-    "u": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-    "s": "The Verge"
-   },
-   {
-    "t": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-    "u": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Meta'dan yapay zeka destekli moda uygulaması: Style Sketch",
-    "u": "https://webrazzi.com/2026/10/30/metadan-yapay-zeka-destekli-moda-uygulamasi-style-sketch/",
+    "t": "Wabi, 1,25 milyar dolar değerleme üzerinden 55 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/wabi-1-25-milyar-dolar-degerleme-uzerinden-55-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
-    "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "t": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "u": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
     "s": "TechCrunch"
    },
    {
-    "t": "Kalshi, 40 milyar dolar değerleme üzerinden 1 milyar dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/10/30/kalshi-40-milyar-dolar-degerleme-uzerinden-1-milyar-dolar-yatirim-aldi/",
+    "t": "Yapay Zeka Gündemi #67",
+    "u": "https://webrazzi.com/2026/10/30/yapay-zeka-gundemi-67/",
     "s": "Webrazzi"
    },
    {
-    "t": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-    "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "t": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "u": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
     "s": "TechCrunch"
    },
    {
-    "t": "OpenAI destekli Thrive Holdings, ADT’yi 7,6 milyar dolara satın almak için anlaştı",
-    "u": "https://webrazzi.com/2026/10/30/openai-destekli-thrive-holdings-adtyi-76-milyar-dolara-satin-almak-icin-anlasti/",
+    "t": "Yapay zeka destekli sağlık teknolojisi girişimi Midstream Health, 20 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/midstream-health-20-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
-    "t": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
-    "u": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+    "t": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "u": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
     "s": "TechCrunch"
    }
   ]
