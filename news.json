@@ -394,6 +394,16 @@
  "2026-10-31": {
   "ai": [
    {
+    "t": "OpenAI reportedly lowers funding target for new round",
+    "u": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "I built an AI Tamagotchi before Meta could",
+    "u": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "s": "The Verge"
+   },
+   {
     "t": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "u": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "s": "TechCrunch"
@@ -412,22 +422,12 @@
     "t": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
     "u": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
     "s": "The Verge"
-   },
-   {
-    "t": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "u": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "The biggest names in AI are backing a new way to opt out of scraping",
-    "u": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "u": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "t": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+    "u": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
     "s": "The Verge"
    },
    {
@@ -436,8 +436,8 @@
     "s": "Wired"
    },
    {
-    "t": "Exclusive details about Akai’s MPC Sample Key",
-    "u": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+    "t": "Happy Pikmin Day Eve",
+    "u": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
     "s": "The Verge"
    },
    {
@@ -446,8 +446,8 @@
     "s": "Wired"
    },
    {
-    "t": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "t": "I built an AI Tamagotchi before Meta could",
+    "u": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
     "s": "The Verge"
    },
    {
