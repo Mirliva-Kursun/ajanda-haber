@@ -586,5 +586,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-02": {
+  "ai": [
+   {
+    "t": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "u": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "I built an AI Tamagotchi before Meta could",
+    "u": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "s": "The Verge"
+   },
+   {
+    "t": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "u": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "u": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "s": "The Verge"
+   },
+   {
+    "t": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "u": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "NASA hopes the commercial space industry can help save Hubble",
+    "u": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "u": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "s": "Wired"
+   },
+   {
+    "t": "Flock keeps ignoring requests to cancel its contracts",
+    "u": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+    "s": "The Verge"
+   },
+   {
+    "t": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "u": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "s": "Wired"
+   },
+   {
+    "t": "Apple’s HomeView could add security camera features",
+    "u": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+    "u": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Wabi, 1,25 milyar dolar değerleme üzerinden 55 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/wabi-1-25-milyar-dolar-degerleme-uzerinden-55-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "u": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay Zeka Gündemi #67",
+    "u": "https://webrazzi.com/2026/10/30/yapay-zeka-gundemi-67/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+    "u": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay zeka destekli sağlık teknolojisi girişimi Midstream Health, 20 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/10/30/midstream-health-20-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "u": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
