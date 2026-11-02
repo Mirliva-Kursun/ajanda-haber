@@ -684,5 +684,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-03": {
+  "ai": [
+   {
+    "t": "Web host Squarespace lays off 19% of its employees",
+    "u": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Anthropic clamps down on Claude’s AI video game clones",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "s": "The Verge"
+   },
+   {
+    "t": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "u": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "s": "The Verge"
+   },
+   {
+    "t": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "u": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "u": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Meta will end Quest 2 OS updates in 2027",
+    "u": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "u": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "s": "Wired"
+   },
+   {
+    "t": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+    "u": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+    "s": "The Verge"
+   },
+   {
+    "t": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "u": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "s": "Wired"
+   },
+   {
+    "t": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+    "u": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+    "u": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Savunma teknolojileri girişimi Hypersonica, 100 milyon euro yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/02/savunma-teknolojileri-girisimi-hypersonica-100-milyon-euro-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+    "u": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple, üç yeni iPad modelini 2027’nin ilk yarısında tanıtabilir",
+    "u": "https://webrazzi.com/2026/11/02/apple-uc-yeni-ipad-modelini-2027nin-ilk-yarisinda-tanitabilir/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "u": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Salesforce, savunma teknolojileri girişimi Rune Technologies'i 375 milyon dolara satın alıyor",
+    "u": "https://webrazzi.com/2026/11/02/salesforce-savunma-teknolojileri-girisimi-runeu-375-milyon-dolara-satin-aliyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "u": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
