@@ -782,5 +782,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-04": {
+  "ai": [
+   {
+    "t": "Anthropic is working on a system to prove AI models’ identity",
+    "u": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Those Jeff Bezos hair transplant photos are very fake",
+    "u": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "s": "The Verge"
+   },
+   {
+    "t": "Data centers are turning to old jet engines as the wait for power grows",
+    "u": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple starts giving Siri AI access to third-party apps",
+    "u": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "s": "The Verge"
+   },
+   {
+    "t": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "u": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "u": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+    "u": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "u": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "s": "Wired"
+   },
+   {
+    "t": "Sonos adds new Presets and prepares for the 27voice AI beta",
+    "u": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+    "s": "The Verge"
+   },
+   {
+    "t": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "u": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "s": "Wired"
+   },
+   {
+    "t": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+    "u": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+    "u": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Yapay zeka platformu Trajectory, 45 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/03/yapay-zeka-platformu-trajectory-45-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "u": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple'ın robotik ekranlı akıllı ev cihazı HomeView Ultra 2028'e ertelenebilir",
+    "u": "https://webrazzi.com/2026/11/03/apple-in-robotik-ekranli-akilli-ev-cihazi-homeview-ultra-2028-e-ertelenebilir/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+    "u": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "OpenAI, ChatGPT'nin Chat ve Work sekmelerini birleştiriyor",
+    "u": "https://webrazzi.com/2026/11/03/openai-chatgptnin-chat-ve-work-sekmelerini-birlestiriyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "u": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
