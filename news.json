@@ -688,40 +688,40 @@
  "2026-11-03": {
   "ai": [
    {
-    "t": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "u": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "t": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "u": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
     "s": "TechCrunch"
    },
    {
-    "t": "Anthropic clamps down on Claude’s AI video game clones",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "t": "Midterm elections 2026: all the news",
+    "u": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
     "s": "The Verge"
    },
    {
-    "t": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "u": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "t": "Apple restricts dating apps and AI companions to users 18 and up",
+    "u": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
     "s": "TechCrunch"
    },
    {
-    "t": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "t": "Apple is all in on AI — its own and everyone else’s",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
     "s": "The Verge"
    },
    {
-    "t": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "u": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "t": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "u": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
     "s": "TechCrunch"
    },
    {
-    "t": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-    "u": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "t": "OpenAI is quietly renaming data centers ‘compute campuses’",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-    "u": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+    "t": "Midterm elections 2026: all the news",
+    "u": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
     "s": "The Verge"
    },
    {
@@ -730,8 +730,8 @@
     "s": "Wired"
    },
    {
-    "t": "Apple set an iPhone sales record even without a new standard iPhone",
-    "u": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+    "t": "Apple is all in on AI — its own and everyone else’s",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
     "s": "The Verge"
    },
    {
@@ -740,8 +740,8 @@
     "s": "Wired"
    },
    {
-    "t": "Meta will end Quest 2 OS updates in 2027",
-    "u": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+    "t": "GTA VI’s download will need up to 212GB of hard drive space",
+    "u": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
     "s": "The Verge"
    },
    {
@@ -752,33 +752,33 @@
   ],
   "girisim": [
    {
-    "t": "Savunma teknolojileri girişimi Hypersonica, 100 milyon euro yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/02/savunma-teknolojileri-girisimi-hypersonica-100-milyon-euro-yatirim-aldi/",
+    "t": "Yapay zeka platformu Trajectory, 45 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/03/yapay-zeka-platformu-trajectory-45-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "u": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple'ın robotik ekranlı akıllı ev cihazı HomeView Ultra 2028'e ertelenebilir",
+    "u": "https://webrazzi.com/2026/11/03/apple-in-robotik-ekranli-akilli-ev-cihazi-homeview-ultra-2028-e-ertelenebilir/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "u": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "OpenAI, ChatGPT'nin Chat ve Work sekmelerini birleştiriyor",
+    "u": "https://webrazzi.com/2026/11/03/openai-chatgptnin-chat-ve-work-sekmelerini-birlestiriyor/",
     "s": "Webrazzi"
    },
    {
     "t": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
     "u": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Apple, üç yeni iPad modelini 2027’nin ilk yarısında tanıtabilir",
-    "u": "https://webrazzi.com/2026/11/02/apple-uc-yeni-ipad-modelini-2027nin-ilk-yarisinda-tanitabilir/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "u": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Salesforce, savunma teknolojileri girişimi Rune Technologies'i 375 milyon dolara satın alıyor",
-    "u": "https://webrazzi.com/2026/11/02/salesforce-savunma-teknolojileri-girisimi-runeu-375-milyon-dolara-satin-aliyor/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-    "u": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
     "s": "TechCrunch"
    }
   ]
