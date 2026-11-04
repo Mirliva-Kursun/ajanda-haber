@@ -786,6 +786,16 @@
  "2026-11-04": {
   "ai": [
    {
+    "t": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "u": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Google hasn’t figured out how to make AI pay like its search engine",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "s": "The Verge"
+   },
+   {
     "t": "Anthropic is working on a system to prove AI models’ identity",
     "u": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "s": "TechCrunch"
@@ -804,54 +814,54 @@
     "t": "Please stop asking me when the AI bubble will pop",
     "u": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
     "s": "The Verge"
-   },
-   {
-    "t": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "u": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Those Jeff Bezos hair transplant photos are very fake",
-    "u": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-    "u": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+    "t": "Does opting out of TV tracking work?",
+    "u": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
+    "s": "The Verge"
+   },
+   {
+    "t": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+    "u": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+    "s": "Wired"
+   },
+   {
+    "t": "Google hasn’t figured out how to make AI pay like its search engine",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "s": "The Verge"
+   },
+   {
+    "t": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+    "u": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+    "s": "Wired"
+   },
+   {
+    "t": "The Legend of Zelda: Ocarina of Time never gets old",
+    "u": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
     "s": "The Verge"
    },
    {
     "t": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
     "u": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
     "s": "Wired"
-   },
-   {
-    "t": "All the news about The Legend of Zelda: Ocarina of Time remake",
-    "u": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-    "s": "The Verge"
-   },
-   {
-    "t": "How a Contractor’s Claude Agent Got Into the Pentagon",
-    "u": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-    "s": "Wired"
-   },
-   {
-    "t": "The biggest modding site in PC gaming is taking a stance on AI",
-    "u": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-    "s": "The Verge"
-   },
-   {
-    "t": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-    "u": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "fal, 16 milyar dolar değerlemeyle 1,3 milyar dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/04/fal-16-milyar-dolar-degerlemeyle-1-3-milyar-dolar-yatirim-aldi/",
+    "t": "Google'ın okullara sunduğu yapay zeka kontrolü Search erişimini de etkileyebilir",
+    "u": "https://webrazzi.com/2026/11/04/googlein-okullara-sundugu-yapay-zeka-kontrolu-search-erisimini-de-etkileyebilir/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "u": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Applied Compute, 3,25 milyar dolar değerleme üzerinden 350 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/04/applied-compute-3-25-milyar-dolar-degerleme-uzerinden-350-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
@@ -860,23 +870,13 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Yapay zeka platformu Trajectory, 45 milyon dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/03/yapay-zeka-platformu-trajectory-45-milyon-dolar-yatirim-aldi/",
+    "t": "Netflix, yapay zeka destekli AI Discover özelliğini kullanıma sunuyor",
+    "u": "https://webrazzi.com/2026/11/04/netflix-yapay-zeka-destekli-ai-discover-ozelligini-kullanima-sunuyor/",
     "s": "Webrazzi"
    },
    {
     "t": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
     "u": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Apple'ın robotik ekranlı akıllı ev cihazı HomeView Ultra 2028'e ertelenebilir",
-    "u": "https://webrazzi.com/2026/11/03/apple-in-robotik-ekranli-akilli-ev-cihazi-homeview-ultra-2028-e-ertelenebilir/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-    "u": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
     "s": "TechCrunch"
    }
   ]
