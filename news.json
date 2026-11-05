@@ -978,5 +978,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-06": {
+  "ai": [
+   {
+    "t": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "u": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Perplexity launches its own take on AI agents for work",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta says US users can now video chat with their Muse AI avatar",
+    "u": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Muse has a voice mode now",
+    "u": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "u": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Claude AI can plug directly into your bank account",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+    "u": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+    "s": "The Verge"
+   },
+   {
+    "t": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "u": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "s": "Wired"
+   },
+   {
+    "t": "Perplexity launches its own take on AI agents for work",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "s": "The Verge"
+   },
+   {
+    "t": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "u": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "s": "Wired"
+   },
+   {
+    "t": "Salon is shutting down after 31 years",
+    "u": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+    "s": "The Verge"
+   },
+   {
+    "t": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "u": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Akıllı TV işletim sistemi geliştiren Titan OS, 46 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/05/akilli-tv-isletim-sistemi-gelistiren-titan-os-46-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Harbinger raises $240M after expanding into defense",
+    "u": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple, çalışanlarının yapay zeka kullanım bütçelerini düşürüyor",
+    "u": "https://webrazzi.com/2026/11/05/apple-calisanlarinin-yapay-zeka-kullanim-butcelerini-dusuruyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+    "u": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Spotify'ın sesli kitap hizmeti Türkiye'de kullanıma sunuldu",
+    "u": "https://webrazzi.com/2026/11/05/spotify-in-sesli-kitap-hizmeti-turkiye-de-kullanima-sunuldu/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Axiom Math wants to keep AI slop out of mathematics",
+    "u": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
