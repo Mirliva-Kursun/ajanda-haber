@@ -884,97 +884,97 @@
  "2026-11-05": {
   "ai": [
    {
-    "t": "Apple is reportedly cutting budgets for its internal AI usage",
-    "u": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "t": "Axiom Math wants to keep AI slop out of mathematics",
+    "u": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "s": "TechCrunch"
    },
    {
-    "t": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "t": "Grimes is going to star in an AI movie that’s coming to theaters",
+    "u": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
     "s": "The Verge"
    },
    {
-    "t": "After the midterms, a bigger clash over data centers could be coming",
-    "u": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "t": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "u": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
     "s": "TechCrunch"
    },
    {
-    "t": "17 better ways Elon Musk could have wasted $446 million",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "t": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
     "s": "The Verge"
    },
    {
-    "t": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "u": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "t": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "u": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
     "s": "TechCrunch"
    },
    {
-    "t": "Gemini for Home now plugs into AT&T’s smart security system",
-    "u": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "t": "The hidden supply chain costs of the AI boom",
+    "u": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
-    "u": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+    "t": "The FAA is finally ditching floppy disks",
+    "u": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
+    "s": "The Verge"
+   },
+   {
+    "t": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "u": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "s": "Wired"
+   },
+   {
+    "t": "Grimes is going to star in an AI movie that’s coming to theaters",
+    "u": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+    "s": "The Verge"
+   },
+   {
+    "t": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "u": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "s": "Wired"
+   },
+   {
+    "t": "Xbox overhauls its PC, web, and cloud apps with a faster design",
+    "u": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
     "s": "The Verge"
    },
    {
     "t": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
     "u": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
     "s": "Wired"
-   },
-   {
-    "t": "X says its updated web app is way faster",
-    "u": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-    "s": "The Verge"
-   },
-   {
-    "t": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-    "u": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-    "s": "Wired"
-   },
-   {
-    "t": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "s": "The Verge"
-   },
-   {
-    "t": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-    "u": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Traversal, 1 milyar dolar değerleme üzerinden 120 milyon dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/04/traversal-1-milyar-dolar-degerleme-uzerinden-120-milyon-dolar-yatirim-aldi/",
+    "t": "Akıllı TV işletim sistemi geliştiren Titan OS, 46 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/05/akilli-tv-isletim-sistemi-gelistiren-titan-os-46-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
-    "t": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "u": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "t": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+    "u": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
     "s": "TechCrunch"
    },
    {
-    "t": "Google'ın okullara sunduğu yapay zeka kontrolü Search erişimini de etkileyebilir",
-    "u": "https://webrazzi.com/2026/11/04/googlein-okullara-sundugu-yapay-zeka-kontrolu-search-erisimini-de-etkileyebilir/",
+    "t": "Apple, çalışanlarının yapay zeka kullanım bütçelerini düşürüyor",
+    "u": "https://webrazzi.com/2026/11/05/apple-calisanlarinin-yapay-zeka-kullanim-butcelerini-dusuruyor/",
     "s": "Webrazzi"
    },
    {
-    "t": "Open source AI is booming. Hugging Face explains who profits.",
-    "u": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "t": "Axiom Math wants to keep AI slop out of mathematics",
+    "u": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "s": "TechCrunch"
    },
    {
-    "t": "Applied Compute, 3,25 milyar dolar değerleme üzerinden 350 milyon dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/04/applied-compute-3-25-milyar-dolar-degerleme-uzerinden-350-milyon-dolar-yatirim-aldi/",
+    "t": "Spotify'ın sesli kitap hizmeti Türkiye'de kullanıma sunuldu",
+    "u": "https://webrazzi.com/2026/11/05/spotify-in-sesli-kitap-hizmeti-turkiye-de-kullanima-sunuldu/",
     "s": "Webrazzi"
    },
    {
-    "t": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "u": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "t": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+    "u": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
     "s": "TechCrunch"
    }
   ]
