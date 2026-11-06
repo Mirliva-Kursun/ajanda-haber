@@ -982,40 +982,50 @@
  "2026-11-06": {
   "ai": [
    {
-    "t": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "u": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "t": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "u": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Amazon will let you text Alexa your shopping list",
+    "u": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "s": "The Verge"
+   },
+   {
+    "t": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "u": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Protesters break into Microsoft data center site in Amsterdam",
+    "u": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+    "s": "The Verge"
+   },
+   {
+    "t": "Underdog shows off a 32MB speech model in new demo",
+    "u": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
     "s": "TechCrunch"
    },
    {
     "t": "OpenAI is stepping back from NDAs for data center projects",
     "u": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "s": "The Verge"
-   },
-   {
-    "t": "Meta says US users can now video chat with their Muse AI avatar",
-    "u": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Airbnb is working on an AI travel agent",
-    "u": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-    "s": "The Verge"
-   },
-   {
-    "t": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "u": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Perplexity launches its own take on AI agents for work",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "OpenAI is stepping back from NDAs for data center projects",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "t": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
+    "u": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+    "s": "The Verge"
+   },
+   {
+    "t": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "u": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "s": "Wired"
+   },
+   {
+    "t": "Big Tech lost big in the 2026 election",
+    "u": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
     "s": "The Verge"
    },
    {
@@ -1024,30 +1034,20 @@
     "s": "Wired"
    },
    {
-    "t": "Airbnb is working on an AI travel agent",
-    "u": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "t": "How Akai and Moog are embracing vibe-coded mods",
+    "u": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
     "s": "The Verge"
    },
    {
     "t": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
     "u": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
     "s": "Wired"
-   },
-   {
-    "t": "The New York Times is in talks to buy Letterboxd for around $330 million",
-    "u": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-    "s": "The Verge"
-   },
-   {
-    "t": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "u": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Akıllı TV işletim sistemi geliştiren Titan OS, 46 milyon dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/05/akilli-tv-isletim-sistemi-gelistiren-titan-os-46-milyon-dolar-yatirim-aldi/",
+    "t": "Dropbox, Tigris Data'yı 350 milyon dolara satın alıyor",
+    "u": "https://webrazzi.com/2026/11/06/dropbox-tigris-datayi-350-milyon-dolara-satin-aliyor/",
     "s": "Webrazzi"
    },
    {
@@ -1056,8 +1056,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Apple, çalışanlarının yapay zeka kullanım bütçelerini düşürüyor",
-    "u": "https://webrazzi.com/2026/11/05/apple-calisanlarinin-yapay-zeka-kullanim-butcelerini-dusuruyor/",
+    "t": "Shield AI, radar üreticisi Echodyne'i 5,3 milyar dolara satın alıyor",
+    "u": "https://webrazzi.com/2026/11/06/shield-ai-radar-ureticisi-echodynei-53-milyar-dolara-satin-aliyor/",
     "s": "Webrazzi"
    },
    {
@@ -1066,8 +1066,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Spotify'ın sesli kitap hizmeti Türkiye'de kullanıma sunuldu",
-    "u": "https://webrazzi.com/2026/11/05/spotify-in-sesli-kitap-hizmeti-turkiye-de-kullanima-sunuldu/",
+    "t": "TikTok, TikTok Shop için bağımsız alışveriş uygulamasını kullanıma sundu",
+    "u": "https://webrazzi.com/2026/11/06/tiktok-tiktok-shop-icin-bagimsiz-alisveris-uygulamasini-kullanima-sundu/",
     "s": "Webrazzi"
    },
    {
