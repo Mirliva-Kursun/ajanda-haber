@@ -1080,13 +1080,23 @@
  "2026-11-07": {
   "ai": [
    {
+    "t": "Crusoe sells troubled Wyoming data center project to Google",
+    "u": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "s": "The Verge"
+   },
+   {
     "t": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "u": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "s": "TechCrunch"
    },
    {
-    "t": "All the latest updates on AI data centers",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "t": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "u": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
     "s": "The Verge"
    },
    {
@@ -1095,25 +1105,15 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-    "u": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "s": "The Verge"
-   },
-   {
-    "t": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "u": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "AI is the new dating dealbreaker",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "t": "All the latest updates on AI data centers",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-    "u": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+    "t": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
     "s": "The Verge"
    },
    {
@@ -1122,8 +1122,8 @@
     "s": "Wired"
    },
    {
-    "t": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-    "u": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+    "t": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "u": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
     "s": "The Verge"
    },
    {
@@ -1132,8 +1132,8 @@
     "s": "Wired"
    },
    {
-    "t": "All the latest updates on AI data centers",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "t": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+    "u": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
     "s": "The Verge"
    },
    {
