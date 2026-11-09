@@ -1276,6 +1276,16 @@
  "2026-11-09": {
   "ai": [
    {
+    "t": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "u": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "s": "The Verge"
+   },
+   {
     "t": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
     "u": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
     "s": "TechCrunch"
@@ -1294,22 +1304,12 @@
     "t": "Apple is racing to make Siri more agentic",
     "u": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
     "s": "The Verge"
-   },
-   {
-    "t": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "u": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Elvis and Eminem rights holders are suing Suno",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Epic Games Launcher is coming to SteamOS",
-    "u": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+    "t": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "s": "The Verge"
    },
    {
@@ -1318,8 +1318,8 @@
     "s": "Wired"
    },
    {
-    "t": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "t": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+    "u": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
     "s": "The Verge"
    },
    {
@@ -1328,8 +1328,8 @@
     "s": "Wired"
    },
    {
-    "t": "Apple is racing to make Siri more agentic",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "t": "Epic Games Launcher is coming to SteamOS",
+    "u": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
     "s": "The Verge"
    },
    {
