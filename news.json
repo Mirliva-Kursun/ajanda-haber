@@ -1468,5 +1468,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-11": {
+  "ai": [
+   {
+    "t": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "u": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The US is winning the AI race. Jensen Huang could have blown it",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "s": "The Verge"
+   },
+   {
+    "t": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "u": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "ChatGPT is getting verified AI ‘Business Agents’",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "s": "The Verge"
+   },
+   {
+    "t": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "u": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The indie game community is in disarray over AI and Big Walk",
+    "u": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+    "u": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+    "s": "The Verge"
+   },
+   {
+    "t": "Louis Rossmann Wants More People to Care About the Right to Repair",
+    "u": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
+    "s": "Wired"
+   },
+   {
+    "t": "The VR Disney Plus app on Meta Quest now has 3D movies",
+    "u": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+    "s": "The Verge"
+   },
+   {
+    "t": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "u": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "s": "Wired"
+   },
+   {
+    "t": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "u": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+    "s": "The Verge"
+   },
+   {
+    "t": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "u": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Yapay zeka destekli finansal analiz platformu geniosAI, 19,1 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/10/yapay-zeka-destekli-finansal-analiz-platformu-geniosai-191-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "u": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "X, videolardan doğrudan klip oluşturma özelliğini kullanıma sundu",
+    "u": "https://webrazzi.com/2026/11/10/x-videolardan-dogrudan-klip-olusturma-ozelligini-kullanima-sundu/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "u": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Anthropic, 1 trilyon dolar değerleme hedefiyle halka arza hazırlanıyor",
+    "u": "https://webrazzi.com/2026/11/10/anthropic-1-trilyon-dolar-degerleme-hedefiyle-halka-arza-hazirlaniyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "u": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
