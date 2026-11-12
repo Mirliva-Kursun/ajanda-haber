@@ -1566,5 +1566,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-12": {
+  "ai": [
+   {
+    "t": "The unfolding Jensen Huang scandal: a timeline",
+    "u": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "u": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "s": "The Verge"
+   },
+   {
+    "t": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "u": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "United won’t let your AI agent book your flight",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "s": "The Verge"
+   },
+   {
+    "t": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "u": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "u": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "u": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "s": "The Verge"
+   },
+   {
+    "t": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "u": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "s": "Wired"
+   },
+   {
+    "t": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+    "u": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+    "s": "The Verge"
+   },
+   {
+    "t": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+    "u": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+    "s": "Wired"
+   },
+   {
+    "t": "United won’t let your AI agent book your flight",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "s": "The Verge"
+   },
+   {
+    "t": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+    "u": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Mercor, 20 milyar dolar değerleme üzerinden 750 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/11/mercor-20-milyar-dolar-degerleme-uzerinden-750-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "u": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Google, Gemini 4 Carbon'ı kullanıma sundu",
+    "u": "https://webrazzi.com/2026/11/11/google-gemini-4-carboni-kullanima-sundu/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "u": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Anthropic, toplantılar sırasında görevleri yerine getiren Claude Meetings'i tanıttı",
+    "u": "https://webrazzi.com/2026/11/11/anthropic-toplantilar-sirasinda-gorevleri-yerine-getiren-claude-meetingsi-tanitti/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "u": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
