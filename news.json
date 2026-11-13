@@ -1668,40 +1668,50 @@
  "2026-11-13": {
   "ai": [
    {
-    "t": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-    "u": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "t": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "u": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "s": "TechCrunch"
    },
    {
-    "t": "Google’s new Gemini model is better at understanding complicated questions",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "t": "What’s really at stake in the Jensen Huang saga",
+    "u": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
     "s": "The Verge"
    },
    {
-    "t": "Muse can now place calls to US businesses — if you pay",
-    "u": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "t": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "u": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "s": "TechCrunch"
    },
    {
-    "t": "No, AI agents did not discover a previously unknown Maya site",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "t": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
     "s": "The Verge"
    },
    {
     "t": "The unfolding Jensen Huang scandal: a timeline",
-    "u": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "u": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "s": "TechCrunch"
    },
    {
-    "t": "Oh, Palantir is ‘progressive’ now, is it?",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "t": "Let’s talk about Jensen Huang’s many affairs!",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Donald Trump really wants Tim Cook to run Nvidia",
-    "u": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+    "t": "Here’s how you can save on your GTA VI preorder ahead of launch",
+    "u": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+    "s": "The Verge"
+   },
+   {
+    "t": "Jensen Huang and the End of the Founder Fairy Tale",
+    "u": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "s": "Wired"
+   },
+   {
+    "t": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+    "u": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
     "s": "The Verge"
    },
    {
@@ -1710,30 +1720,20 @@
     "s": "Wired"
    },
    {
-    "t": "Xbox announces Wolfenstein 3",
-    "u": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+    "t": "Jensen Huang was reckless with the environment, too",
+    "u": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
     "s": "The Verge"
    },
    {
     "t": "Silicon Valley Is Still Defending Jensen Huang",
     "u": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
     "s": "Wired"
-   },
-   {
-    "t": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-    "u": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-    "s": "The Verge"
-   },
-   {
-    "t": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-    "u": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Bucked Games, Startupfon Tohum GSYF ve Startupfon Co-Invest'ten yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/13/bucked-games-startupfon-tohum-gsyf-ve-startupfon-co-invest-ten-yatirim-aldi/",
+    "t": "Kurumsal iş süreçlerini yapay zeka ile otomatikleştiren girişim: DCase",
+    "u": "https://webrazzi.com/2026/11/13/kurumsal-is-sureclerini-yapay-zeka-ile-otomatiklestiren-girisim-dcase/",
     "s": "Webrazzi"
    },
    {
@@ -1742,8 +1742,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Donald Trump, Nvidia'nın yeni CEO'su olarak Tim Cook'u önerdi",
-    "u": "https://webrazzi.com/2026/11/13/donald-trump-nvidia-nin-yeni-ceo-su-olarak-tim-cook-u-onerdi/",
+    "t": "Yapay Zeka Gündemi #68",
+    "u": "https://webrazzi.com/2026/11/13/yapay-zeka-gundemi-68/",
     "s": "Webrazzi"
    },
    {
@@ -1752,8 +1752,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Yapay zeka modelleri ve ajan yazılımları geliştiren Mirendil, 1 milyar dolar yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/13/yapay-zeka-model-ve-ajan-yazilimlari-gelistiren-mirendil-1-milyar-dolar-yatirim-aldi/",
+    "t": "LangChain, 3 milyar dolar değerleme üzerinden 300 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/13/langchain-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
