@@ -1762,5 +1762,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-14": {
+  "ai": [
+   {
+    "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Amazon has a plan to index the world’s online shopping data",
+    "u": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "s": "The Verge"
+   },
+   {
+    "t": "AI agent startup LangChain hits $3B valuation",
+    "u": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "s": "The Verge"
+   },
+   {
+    "t": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "u": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "What’s really at stake in the Jensen Huang saga",
+    "u": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Amazon has a plan to index the world’s online shopping data",
+    "u": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "s": "The Verge"
+   },
+   {
+    "t": "Jensen Huang and the End of the Founder Fairy Tale",
+    "u": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "s": "Wired"
+   },
+   {
+    "t": "FAA ground stop shuts down flights nationwide",
+    "u": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "s": "The Verge"
+   },
+   {
+    "t": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+    "u": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "s": "Wired"
+   },
+   {
+    "t": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "s": "The Verge"
+   },
+   {
+    "t": "Silicon Valley Is Still Defending Jensen Huang",
+    "u": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Kurumsal iş süreçlerini yapay zeka ile otomatikleştiren girişim: DCase",
+    "u": "https://webrazzi.com/2026/11/13/kurumsal-is-sureclerini-yapay-zeka-ile-otomatiklestiren-girisim-dcase/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay Zeka Gündemi #68",
+    "u": "https://webrazzi.com/2026/11/13/yapay-zeka-gundemi-68/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "AI agent startup LangChain hits $3B valuation",
+    "u": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "LangChain, 3 milyar dolar değerleme üzerinden 300 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/13/langchain-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "u": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
