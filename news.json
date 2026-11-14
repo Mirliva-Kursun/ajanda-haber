@@ -1766,6 +1766,26 @@
  "2026-11-14": {
   "ai": [
    {
+    "t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "u": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+    "u": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "s": "The Verge"
+   },
+   {
+    "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "u": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "s": "The Verge"
+   },
+   {
     "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "s": "TechCrunch"
@@ -1774,32 +1794,22 @@
     "t": "Amazon has a plan to index the world’s online shopping data",
     "u": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
     "s": "The Verge"
-   },
-   {
-    "t": "AI agent startup LangChain hits $3B valuation",
-    "u": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-    "s": "The Verge"
-   },
-   {
-    "t": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "u": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "What’s really at stake in the Jensen Huang saga",
-    "u": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-    "u": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "t": "Here are our favorite deals from REI’s giant Holiday Sale",
+    "u": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+    "s": "The Verge"
+   },
+   {
+    "t": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "u": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "s": "Wired"
+   },
+   {
+    "t": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+    "u": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
     "s": "The Verge"
    },
    {
@@ -1808,23 +1818,13 @@
     "s": "Wired"
    },
    {
-    "t": "Amazon has a plan to index the world’s online shopping data",
-    "u": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "t": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+    "u": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
     "s": "The Verge"
    },
    {
     "t": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
     "u": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-    "s": "Wired"
-   },
-   {
-    "t": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-    "s": "The Verge"
-   },
-   {
-    "t": "Silicon Valley Is Still Defending Jensen Huang",
-    "u": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
     "s": "Wired"
    }
   ],
