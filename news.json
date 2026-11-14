@@ -1860,5 +1860,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-15": {
+  "ai": [
+   {
+    "t": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+    "u": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "s": "The Verge"
+   },
+   {
+    "t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "u": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "u": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "s": "The Verge"
+   },
+   {
+    "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Amazon has a plan to index the world’s online shopping data",
+    "u": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+    "u": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "s": "The Verge"
+   },
+   {
+    "t": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "u": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "s": "Wired"
+   },
+   {
+    "t": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+    "u": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "s": "The Verge"
+   },
+   {
+    "t": "Jensen Huang and the End of the Founder Fairy Tale",
+    "u": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "s": "Wired"
+   },
+   {
+    "t": "Work to replace old copper wire led to the FAA’s ground stop",
+    "u": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+    "s": "The Verge"
+   },
+   {
+    "t": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+    "u": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Kurumsal iş süreçlerini yapay zeka ile otomatikleştiren girişim: DCase",
+    "u": "https://webrazzi.com/2026/11/13/kurumsal-is-sureclerini-yapay-zeka-ile-otomatiklestiren-girisim-dcase/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay Zeka Gündemi #68",
+    "u": "https://webrazzi.com/2026/11/13/yapay-zeka-gundemi-68/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "AI agent startup LangChain hits $3B valuation",
+    "u": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "LangChain, 3 milyar dolar değerleme üzerinden 300 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/13/langchain-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "u": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
