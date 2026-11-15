@@ -1958,5 +1958,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-16": {
+  "ai": [
+   {
+    "t": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "u": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "s": "The Verge"
+   },
+   {
+    "t": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "u": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "s": "The Verge"
+   },
+   {
+    "t": "Where was Nvidia’s security team?",
+    "u": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "An overview of Jensen Huang’s messy days",
+    "u": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Listen to this: Armand Hammer’s Snakes & Ladders",
+    "u": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+    "s": "The Verge"
+   },
+   {
+    "t": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "u": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "s": "Wired"
+   },
+   {
+    "t": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "u": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "s": "The Verge"
+   },
+   {
+    "t": "Jensen Huang and the End of the Founder Fairy Tale",
+    "u": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "s": "Wired"
+   },
+   {
+    "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "s": "The Verge"
+   },
+   {
+    "t": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+    "u": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Kurumsal iş süreçlerini yapay zeka ile otomatikleştiren girişim: DCase",
+    "u": "https://webrazzi.com/2026/11/13/kurumsal-is-sureclerini-yapay-zeka-ile-otomatiklestiren-girisim-dcase/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "u": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay Zeka Gündemi #68",
+    "u": "https://webrazzi.com/2026/11/13/yapay-zeka-gundemi-68/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "LangChain, 3 milyar dolar değerleme üzerinden 300 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/13/langchain-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "AI agent startup LangChain hits $3B valuation",
+    "u": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
