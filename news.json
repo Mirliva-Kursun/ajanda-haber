@@ -1962,8 +1962,18 @@
  "2026-11-16": {
   "ai": [
    {
-    "t": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "u": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "t": "Apple launches new app to study how people use AI for health",
+    "u": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "u": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "s": "The Verge"
+   },
+   {
+    "t": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "u": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "s": "TechCrunch"
    },
    {
@@ -1972,30 +1982,20 @@
     "s": "The Verge"
    },
    {
-    "t": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "u": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "t": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "u": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
     "s": "TechCrunch"
    },
    {
     "t": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
     "u": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
     "s": "The Verge"
-   },
-   {
-    "t": "Where was Nvidia’s security team?",
-    "u": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "An overview of Jensen Huang’s messy days",
-    "u": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Listen to this: Armand Hammer’s Snakes & Ladders",
-    "u": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+    "t": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "u": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
     "s": "The Verge"
    },
    {
@@ -2004,8 +2004,8 @@
     "s": "Wired"
    },
    {
-    "t": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-    "u": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "t": "Listen to this: Armand Hammer’s Snakes & Ladders",
+    "u": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
     "s": "The Verge"
    },
    {
@@ -2014,8 +2014,8 @@
     "s": "Wired"
    },
    {
-    "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-    "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "t": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "u": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
     "s": "The Verge"
    },
    {
@@ -2031,8 +2031,8 @@
     "s": "Webrazzi"
    },
    {
-    "t": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-    "u": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+    "t": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "u": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "s": "TechCrunch"
    },
    {
@@ -2041,8 +2041,8 @@
     "s": "Webrazzi"
    },
    {
-    "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "t": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "u": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
     "s": "TechCrunch"
    },
    {
@@ -2051,8 +2051,8 @@
     "s": "Webrazzi"
    },
    {
-    "t": "AI agent startup LangChain hits $3B valuation",
-    "u": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "t": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "s": "TechCrunch"
    }
   ]
