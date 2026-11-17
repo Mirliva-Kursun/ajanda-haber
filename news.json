@@ -2060,8 +2060,8 @@
  "2026-11-17": {
   "ai": [
    {
-    "t": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "u": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "t": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "u": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
     "s": "TechCrunch"
    },
    {
@@ -2070,8 +2070,8 @@
     "s": "The Verge"
    },
    {
-    "t": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "u": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "t": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "u": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
     "s": "TechCrunch"
    },
    {
@@ -2080,8 +2080,8 @@
     "s": "The Verge"
    },
    {
-    "t": "California state AG sues OpenAI over rogue agent incidents",
-    "u": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "t": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "u": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
     "s": "TechCrunch"
    },
    {
@@ -2092,40 +2092,50 @@
   ],
   "tek": [
    {
-    "t": "Hacker behind 2022 GTA VI leaks pleads guilty",
-    "u": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+    "t": "Kalshi moves into a new kind of gambling: the stock market",
+    "u": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
+    "s": "The Verge"
+   },
+   {
+    "t": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "u": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "s": "Wired"
+   },
+   {
+    "t": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+    "u": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+    "s": "The Verge"
+   },
+   {
+    "t": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "u": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "s": "Wired"
+   },
+   {
+    "t": "This E Ink photo frame can double as your family’s digital dashboard",
+    "u": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
     "s": "The Verge"
    },
    {
     "t": "Jensen Huang Is Gone. Now What?",
     "u": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
     "s": "Wired"
-   },
-   {
-    "t": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-    "u": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-    "s": "The Verge"
-   },
-   {
-    "t": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-    "u": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-    "s": "Wired"
-   },
-   {
-    "t": "United Airlines system outage disrupts departures just days after the big ground stop",
-    "u": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-    "s": "The Verge"
-   },
-   {
-    "t": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-    "u": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Stark Future, 1,2 milyar euro değerleme üzerinden 150 milyon euroyu aşan yatırım aldı",
-    "u": "https://webrazzi.com/2026/11/16/stark-future-1-2-milyar-euro-degerleme-uzerinden-150-milyon-euro-yatirim-aldi/",
+    "t": "Yapay zeka destekli CRM yazılımları geliştiren Dreamteam, 53 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/17/yapay-zeka-destekli-crm-yazilimlari-gelistiren-dreamteam-53-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+    "u": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Adam Mosseri, Instagram'ı iPhone Duo'ya uyarlamanın zor olacağını düşünüyor",
+    "u": "https://webrazzi.com/2026/11/17/adam-mosseri-instagram-i-iphone-duo-ya-uyarlamanin-zor-olacagini-dusunuyor/",
     "s": "Webrazzi"
    },
    {
@@ -2134,23 +2144,13 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Apple, sağlık sorularında yapay zeka kullanımını araştırıyor",
-    "u": "https://webrazzi.com/2026/11/16/apple-saglik-sorularinda-yapay-zeka-kullanimini-arastiriyor/",
+    "t": "Siber güvenlik girişimi Corma, 125 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/17/siber-guvenlik-girisimi-corma-125-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
     "t": "Island is a new screen-time app that turns staying off your phone into a game",
     "u": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Meta, fotoğraflara izinsiz erişim nedeniyle 805 milyon euro ceza aldı",
-    "u": "https://webrazzi.com/2026/11/16/meta-fotograflara-izinsiz-erisim-nedeniyle-805-milyon-euro-ceza-aldi/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "After dodging death, battery startup Our Next Energy is now going public",
-    "u": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
     "s": "TechCrunch"
    }
   ]
