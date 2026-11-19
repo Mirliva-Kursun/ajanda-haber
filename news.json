@@ -2252,5 +2252,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-19": {
+  "ai": [
+   {
+    "t": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "u": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "The nation’s largest school districts consider ditching Google Search",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "s": "The Verge"
+   },
+   {
+    "t": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "u": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Trump’s latest land grab is an AI hub in the Philippines",
+    "u": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "s": "The Verge"
+   },
+   {
+    "t": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "u": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Nvidia’s rise, visualized",
+    "u": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+    "u": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+    "s": "The Verge"
+   },
+   {
+    "t": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+    "u": "https://www.wired.com/story/guys-really-we-got-this/",
+    "s": "Wired"
+   },
+   {
+    "t": "The nation’s largest school districts consider ditching Google Search",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "s": "The Verge"
+   },
+   {
+    "t": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+    "u": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+    "s": "Wired"
+   },
+   {
+    "t": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+    "u": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+    "s": "The Verge"
+   },
+   {
+    "t": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+    "u": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Inveon'un spin-off'u inveon.ai, sesli alışveriş deneyimi ASA Voice Shopping'i kullanıma sundu",
+    "u": "https://webrazzi.com/2026/11/18/inveonun-spin-offu-inveonai-sesli-alisveris-deneyimi-asa-voice-shoppingi-kullanima-sundu/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "u": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Yapay zeka veri altyapısı geliştiren LanceDB, 57,5 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/18/yapay-zeka-veri-altyapisi-gelistiren-lancedb-57-5-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "u": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Nvidia, Çin'e H200 çip satışını durdurdu",
+    "u": "https://webrazzi.com/2026/11/18/nvidia-cine-h200-cip-satisini-durdurdu/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+    "u": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
