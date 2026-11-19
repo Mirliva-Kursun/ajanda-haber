@@ -2256,40 +2256,50 @@
  "2026-11-19": {
   "ai": [
    {
-    "t": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "u": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "t": "The unfolding Jensen Huang scandal: a timeline",
+    "u": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "s": "TechCrunch"
    },
    {
-    "t": "The nation’s largest school districts consider ditching Google Search",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "t": "Meta’s Muse Charm might cost $300",
+    "u": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
     "s": "The Verge"
    },
    {
-    "t": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "u": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "t": "Anthropic’s IPO could deliver $156 billion to charity",
+    "u": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
     "s": "TechCrunch"
    },
    {
-    "t": "Trump’s latest land grab is an AI hub in the Philippines",
-    "u": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "t": "Google is putting AI chats right on the homepage",
+    "u": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
     "s": "The Verge"
    },
    {
-    "t": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "u": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "t": "Google gives Gemini the ability to use your Mac for you",
+    "u": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
     "s": "TechCrunch"
    },
    {
-    "t": "Nvidia’s rise, visualized",
-    "u": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "t": "Gemini on Mac can now use your computer",
+    "u": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
     "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
-    "u": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+    "t": "Meta’s Muse Charm might cost $300",
+    "u": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "s": "The Verge"
+   },
+   {
+    "t": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "u": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "s": "Wired"
+   },
+   {
+    "t": "Google is putting AI chats right on the homepage",
+    "u": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
     "s": "The Verge"
    },
    {
@@ -2298,30 +2308,30 @@
     "s": "Wired"
    },
    {
-    "t": "The nation’s largest school districts consider ditching Google Search",
-    "u": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "t": "FCC greenlights rule allowing prisons to jam cellphone signals",
+    "u": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
     "s": "The Verge"
    },
    {
     "t": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
     "u": "https://www.wired.com/story/guys-really-we-got-this/",
     "s": "Wired"
-   },
-   {
-    "t": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-    "u": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-    "s": "The Verge"
-   },
-   {
-    "t": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-    "u": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Google, GPT-6.2 Sol ve Claude Opus 5.5'e rakip Gemini 4 Neon'u tanıttı",
-    "u": "https://webrazzi.com/2026/11/19/google-gpt-6-2-sol-ve-claude-opus-5-5-e-rakip-gemini-4-neon-u-tanitti/",
+    "t": "Yapay zeka destekli biyoteknoloji girişimi Boltz, 110 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/19/yapay-zeka-destekli-biyoteknoloji-girisimi-boltz-110-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "u": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Fiziksel yapay zeka çözümleri geliştiren BrightAI, 97 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/19/fiziksel-yapay-zeka-cozumleri-gelistiren-brightai-97-milyon-dolar-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
@@ -2330,23 +2340,13 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Snapchat'ten yapay zeka asistanlarıyla AR Lens geliştirme aracı: Easy Lens CLI",
-    "u": "https://webrazzi.com/2026/11/19/snapchat-ten-yapay-zeka-asistanlariyla-ar-lens-gelistirme-araci-easy-lens-cli/",
+    "t": "Microsoft CEO'su Satya Nadella, 60 bin çalışana sunulan ayrılık teklifinin nedenini açıkladı",
+    "u": "https://webrazzi.com/2026/11/19/microsoft-ceo-su-satya-nadella-60-bin-calisana-sunulan-ayrilik-teklifinin-nedenini-acikladi/",
     "s": "Webrazzi"
    },
    {
     "t": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
     "u": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Google'ın yapay zeka destekli aramalarına gizli mod geliyor",
-    "u": "https://webrazzi.com/2026/11/19/google-in-yapay-zeka-destekli-aramalarina-gizli-mod-geliyor/",
-    "s": "Webrazzi"
-   },
-   {
-    "t": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-    "u": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
     "s": "TechCrunch"
    }
   ]
