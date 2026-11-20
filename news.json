@@ -2350,5 +2350,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-20": {
+  "ai": [
+   {
+    "t": "Apple may be developing its own AI agent that runs your Mac",
+    "u": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Apple is hiring engineers to build its own AI agent",
+    "u": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "s": "The Verge"
+   },
+   {
+    "t": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "u": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "A brief history of Nvidia’s recent stock fluctuations",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta’s new Muse Charm device may cost $300",
+    "u": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Meta’s Muse Charm might cost $300",
+    "u": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Apple is hiring engineers to build its own AI agent",
+    "u": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "s": "The Verge"
+   },
+   {
+    "t": "What’s With All These Outages?",
+    "u": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "s": "Wired"
+   },
+   {
+    "t": "A brief history of Nvidia’s recent stock fluctuations",
+    "u": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "s": "The Verge"
+   },
+   {
+    "t": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "u": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "s": "Wired"
+   },
+   {
+    "t": "Meta now sells 3D movies on Quest VR headsets",
+    "u": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+    "s": "The Verge"
+   },
+   {
+    "t": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "u": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "Yapay zeka destekli biyoteknoloji girişimi Boltz, 110 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/19/yapay-zeka-destekli-biyoteknoloji-girisimi-boltz-110-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "u": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Fiziksel yapay zeka çözümleri geliştiren BrightAI, 97 milyon dolar yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/19/fiziksel-yapay-zeka-cozumleri-gelistiren-brightai-97-milyon-dolar-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "u": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Microsoft CEO'su Satya Nadella, 60 bin çalışana sunulan ayrılık teklifinin nedenini açıkladı",
+    "u": "https://webrazzi.com/2026/11/19/microsoft-ceo-su-satya-nadella-60-bin-calisana-sunulan-ayrilik-teklifinin-nedenini-acikladi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "u": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
