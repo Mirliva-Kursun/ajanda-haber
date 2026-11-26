@@ -2942,6 +2942,16 @@
  "2026-11-26": {
   "ai": [
    {
+    "t": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "u": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "u": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "s": "The Verge"
+   },
+   {
     "t": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "u": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "s": "TechCrunch"
@@ -2960,22 +2970,22 @@
     "t": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
     "u": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
     "s": "The Verge"
-   },
-   {
-    "t": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-    "u": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-    "s": "TechCrunch"
-   },
-   {
-    "t": "Nothing offers a full look at its AI earbuds and charging case",
-    "u": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-    "s": "The Verge"
    }
   ],
   "tek": [
    {
-    "t": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-    "u": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+    "t": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+    "u": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "u": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "s": "Wired"
+   },
+   {
+    "t": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+    "u": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
     "s": "The Verge"
    },
    {
@@ -2984,30 +2994,20 @@
     "s": "Wired"
    },
    {
-    "t": "Amazon loses its latest attempt to get out of handling more recall notices",
-    "u": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+    "t": "GTA VI developers vote against unionization",
+    "u": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
     "s": "The Verge"
    },
    {
     "t": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
     "u": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
     "s": "Wired"
-   },
-   {
-    "t": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-    "u": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-    "s": "The Verge"
-   },
-   {
-    "t": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-    "u": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-    "s": "Wired"
    }
   ],
   "girisim": [
    {
-    "t": "Webrazzi Sessions: AI'da neler yaşandı?",
-    "u": "https://webrazzi.com/2026/11/25/webrazzi-sessions-ai-da-neler-yasandi/",
+    "t": "PixoAnalytics, ACT Venture Partners'tan 1 milyon euro yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/26/pixoanalytics-act-venture-partnerstan-1-milyon-euro-yatirim-aldi/",
     "s": "Webrazzi"
    },
    {
@@ -3016,8 +3016,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Yapay zeka ile ürün geliştirmenin yeni kuralları Webrazzi Sessions: AI'da tartışıldı",
-    "u": "https://webrazzi.com/2026/11/25/yapay-zeka-ile-urun-gelistirmenin-yeni-kurallari-webrazzi-sessions-ai-da-tartisildi/",
+    "t": "OpenClaw, yapay zeka ajanlarının gerçek görevlerdeki performansını ölçen ShellBench'i tanıttı",
+    "u": "https://webrazzi.com/2026/11/26/openclaw-yapay-zeka-ajanlarinin-gercek-gorevlerdeki-performansini-olcen-shellbenchi-tanitti/",
     "s": "Webrazzi"
    },
    {
@@ -3026,8 +3026,8 @@
     "s": "TechCrunch"
    },
    {
-    "t": "Baki Er: \"Paribu'da yapay zeka dönüşümü ekiplerin çalışma biçimini değiştirdi.\"",
-    "u": "https://webrazzi.com/2026/11/25/baki-er-paribu-da-yapay-zeka-donusumu-ekiplerin-calisma-bicimini-degistirdi/",
+    "t": "X, içerik üreticileri için dikey video düzenleme araçlarını genişletiyor",
+    "u": "https://webrazzi.com/2026/11/26/x-icerik-ureticileri-icin-dikey-video-duzenleme-araclarini-genisletiyor/",
     "s": "Webrazzi"
    },
    {
