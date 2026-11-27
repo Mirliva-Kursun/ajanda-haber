@@ -3036,5 +3036,103 @@
     "s": "TechCrunch"
    }
   ]
+ },
+ "2026-11-27": {
+  "ai": [
+   {
+    "t": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "u": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "u": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "s": "The Verge"
+   },
+   {
+    "t": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "u": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "u": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "s": "The Verge"
+   },
+   {
+    "t": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "u": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "u": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "s": "The Verge"
+   }
+  ],
+  "tek": [
+   {
+    "t": "Netflix’s coziest show has made a very quiet return",
+    "u": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+    "s": "The Verge"
+   },
+   {
+    "t": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "u": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "s": "Wired"
+   },
+   {
+    "t": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+    "u": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+    "s": "The Verge"
+   },
+   {
+    "t": "Not Just Nvidia: Inside Team Trump’s Takeover of Intel",
+    "u": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
+    "s": "Wired"
+   },
+   {
+    "t": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+    "u": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+    "s": "The Verge"
+   },
+   {
+    "t": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+    "u": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+    "s": "Wired"
+   }
+  ],
+  "girisim": [
+   {
+    "t": "PixoAnalytics, ACT Venture Partners'tan 1 milyon euro yatırım aldı",
+    "u": "https://webrazzi.com/2026/11/26/pixoanalytics-act-venture-partnerstan-1-milyon-euro-yatirim-aldi/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "u": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "OpenClaw, yapay zeka ajanlarının gerçek görevlerdeki performansını ölçen ShellBench'i tanıttı",
+    "u": "https://webrazzi.com/2026/11/26/openclaw-yapay-zeka-ajanlarinin-gercek-gorevlerdeki-performansini-olcen-shellbenchi-tanitti/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "u": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "s": "TechCrunch"
+   },
+   {
+    "t": "X, içerik üreticileri için dikey video düzenleme araçlarını genişletiyor",
+    "u": "https://webrazzi.com/2026/11/26/x-icerik-ureticileri-icin-dikey-video-duzenleme-araclarini-genisletiyor/",
+    "s": "Webrazzi"
+   },
+   {
+    "t": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "u": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "s": "TechCrunch"
+   }
+  ]
  }
 }
